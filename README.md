@@ -1,5 +1,8 @@
 # Translational RNA-Seq Analysis for Rare Genetic Disease
 
+**NOTE - These notebooks are best downloaded and opened in VCcode, Jupyter or similar to preserve image outputs.**
+
+
 This repository contains three Jupyter notebooks demonstrating practical bioinformatics workflows used in the **translational analysis of RNA-Seq data for rare genetic disease investigation**.
 
 The notebooks illustrate three complementary analytical strategies frequently used in transcriptome-based rare disease diagnostics:
@@ -9,8 +12,6 @@ The notebooks illustrate three complementary analytical strategies frequently us
 - **Outlier splicing analysis**
 
 Each notebook is associated with a **real rare disease diagnostic case** in which transcriptomic analysis contributed to identifying the underlying genetic mechanism. The corresponding cases have been **peer-reviewed and published in the scientific literature**.
-
-**NOTE** - The notebooks are best downloaded and opened in VCcode, Jupyter or similar to preserve image outputs.
 
 ## Associated Publications
 
