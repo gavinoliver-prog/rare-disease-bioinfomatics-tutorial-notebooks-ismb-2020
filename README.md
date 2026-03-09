@@ -10,6 +10,8 @@ The notebooks illustrate three complementary analytical strategies frequently us
 
 Each notebook is associated with a **real rare disease diagnostic case** in which transcriptomic analysis contributed to identifying the underlying genetic mechanism. The corresponding cases have been **peer-reviewed and published in the scientific literature**.
 
+**NOTE** - The notebooks are best downloaded and opened in VCcode, Jupyter or similar to preserve image outputs.
+
 ## Associated Publications
 
 The analytical approaches demonstrated in these notebooks are associated with rare disease diagnostic cases described in the following peer-reviewed publications:
