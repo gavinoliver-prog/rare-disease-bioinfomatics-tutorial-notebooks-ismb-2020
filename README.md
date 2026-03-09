@@ -24,11 +24,6 @@ The analytical approaches demonstrated in these notebooks are associated with ra
    *Bioinformatics.*  
    https://doi.org/10.1093/bioinformatics/btaa259
 
-2. **Jenkinson G., Oliver G.R., et al.**  
-   *RNA-Seq analysis enabling diagnosis of rare genetic disease.*  
-   *Molecular Genetics & Genomic Medicine.*  
-   https://doi.org/10.1002/mgg3.560
-
 These studies illustrate how transcriptome-based analyses—including aberrant splicing detection, expression outlier analysis, and fusion transcript investigation—can contribute to resolving previously unsolved rare genetic disease cases.
 
 
