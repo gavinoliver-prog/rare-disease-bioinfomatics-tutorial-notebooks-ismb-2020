@@ -14,7 +14,12 @@ Each notebook is associated with a **real rare disease diagnostic case** in whic
 
 The analytical approaches demonstrated in these notebooks are associated with rare disease diagnostic cases described in the following peer-reviewed publications:
 
-1. **Jenkinson G., et al.**  
+2\1. **Oliver G.R., et al.**
+   *RNA-Seq detects a SAMD12-EXT1 fusion transcript and leads to the discovery of an EXT1 deletion in a child with multiple osteochondromas.*
+   *Molecular Genetics & Genomic Medicine.*
+   https://doi.org/10.1002/mgg3.560
+
+1. **Jenkinson G., Oliver G.R. (senior author), et al.**  
    *LeafCutter-based analysis identifies aberrant splicing contributing to rare disease diagnosis.*  
    *Bioinformatics.*  
    https://doi.org/10.1093/bioinformatics/btaa259
