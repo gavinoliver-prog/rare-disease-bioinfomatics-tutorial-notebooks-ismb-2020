@@ -1,6 +1,6 @@
 # Translational RNA-Seq Analysis for Rare Genetic Disease
 
-**NOTE - These notebooks are best downloaded and opened in VCcode, Jupyter or similar to preserve image outputs.**
+**NOTE - These notebooks are best downloaded and opened in VScode, Jupyter or similar to preserve image outputs.**
 
 
 This repository contains three Jupyter notebooks demonstrating practical bioinformatics workflows used in the **translational analysis of RNA-Seq data for rare genetic disease investigation**.
